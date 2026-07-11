@@ -118,3 +118,15 @@ Instead, features are built from underlying behaviors:
 *   Interaction History (Total sessions, Days since last session, Average rating given)
 *   Transaction History (Total orders, Total spend in USD, Average order value, Top category bought)
 *   Engagement Prefs (Marketing opt-in status, Preferred device, Preferred payment method, Traffic source)
+
+---
+
+## 👥 Contributors
+
+This project was built by 4th-year **Computer Science & Engineering** students at **SNGCE**:
+
+*   **Geo Jose** - [@geojose911](https://github.com/geojose911)
+*   **Anirudh Ajikumar** - [@anirudhajikumar](https://github.com/anirudhajikumar)
+*   **Abel Shibu** - [@abel-111](https://github.com/abel-111)
+*   **Antony S Kannampuzha** - [@4ntonx](https://github.com/4ntonx)
+
